@@ -1,0 +1,143 @@
+{
+    "User1": {
+      "UserID": "331",
+      "UserName": "King_123",
+      "Comment": "Had a wonderful experience, the service was top-notch. Will definitely return!",
+      "Rating": 5,
+      "Date": "2023-11-04"
+    },
+    "User2": {
+      "UserID": "487",
+      "UserName": "Queen_456",
+      "Comment": "Enjoyed the atmosphere and the staff were friendly. A great experience overall.",
+      "Rating": 4,
+      "Date": "2023-11-05"
+    },
+    "User3": {
+      "UserID": "692",
+      "UserName": "Knight_789",
+      "Comment": "The service could be improved, but the overall experience was decent.",
+      "Rating": 3,
+      "Date": "2023-11-06"
+    },
+    "User4": {
+      "UserID": "214",
+      "UserName": "Bishop_012",
+      "Comment": "Absolutely excellent service! The staff went above and beyond my expectations.",
+      "Rating": 5,
+      "Date": "2023-11-07"
+    },
+    "User5": {
+      "UserID": "543",
+      "UserName": "Rook_345",
+      "Comment": "The experience was average. Nothing extraordinary, but not bad either.",
+      "Rating": 2,
+      "Date": "2023-11-08"
+    },
+    "User6": {
+      "UserID": "789",
+      "UserName": "Pawn_678",
+      "Comment": "Not impressed with the service. There is room for improvement.",
+      "Rating": 1,
+      "Date": "2023-11-09"
+    },
+    "User7": {
+      "UserID": "101",
+      "UserName": "Wizard_901",
+      "Comment": "The magical experience was truly impressive! Will definitely recommend.",
+      "Rating": 5,
+      "Date": "2023-11-10"
+    },
+    "User8": {
+      "UserID": "451",
+      "UserName": "Sorcerer_234",
+      "Comment": "Good value for money. Enjoyed the magical ambiance and service.",
+      "Rating": 4,
+      "Date": "2023-11-11"
+    },
+    "User9": {
+      "UserID": "625",
+      "UserName": "Magician_567",
+      "Comment": "Satisfactory magical experience. Some improvements could be made.",
+      "Rating": 3,
+      "Date": "2023-11-12"
+    },
+    "User10": {
+      "UserID": "237",
+      "UserName": "Enchanter_890",
+      "Comment": "Impressed by the magical display! Would love to visit again.",
+      "Rating": 5,
+      "Date": "2023-11-13"
+    },
+    "User11": {
+      "UserID": "194",
+      "UserName": "Mystic_123",
+      "Comment": "Wonderful mystical experience! The atmosphere was enchanting.",
+      "Rating": 4,
+      "Date": "2023-11-14"
+    },
+    "User12": {
+      "UserID": "862",
+      "UserName": "Illusionist_456",
+      "Comment": "An absolutely amazing illusion show! Mind-blowing and entertaining.",
+      "Rating": 5,
+      "Date": "2023-11-15"
+    },
+    "User13": {
+      "UserID": "508",
+      "UserName": "Specter_789",
+      "Comment": "A unique and haunting experience. Loved the spooky ambiance.",
+      "Rating": 4,
+      "Date": "2023-11-16"
+    },
+    "User14": {
+      "UserID": "382",
+      "UserName": "Necromancer_345",
+      "Comment": "The spooky atmosphere and necromantic display were impressive!",
+      "Rating": 4,
+      "Date": "2023-11-17"
+    },
+    "User15": {
+      "UserID": "719",
+      "UserName": "Alchemist_678",
+      "Comment": "Magical potions and elixirs! A truly enchanting experience.",
+      "Rating": 5,
+      "Date": "2023-11-18"
+    },
+    "User16": {
+      "UserID": "567",
+      "UserName": "Druid_901",
+      "Comment": "Connected with nature's beauty during the magical experience.",
+      "Rating": 4,
+      "Date": "2023-11-19"
+    },
+    "User17": {
+      "UserID": "834",
+      "UserName": "Warlock_234",
+      "Comment": "Dark and mysterious magic. An intriguing and unique experience.",
+      "Rating": 3,
+      "Date": "2023-11-20"
+    },
+    "User18": {
+      "UserID": "162",
+      "UserName": "Archmage_567",
+      "Comment": "Masterful display of magical prowess. Truly impressed!",
+      "Rating": 5,
+      "Date": "2023-11-21"
+    },
+    "User19": {
+      "UserID": "428",
+      "UserName": "Summoner_890",
+      "Comment": "Summoned creatures added a thrilling element to the magical experience.",
+      "Rating": 4,
+      "Date": "2023-11-22"
+    },
+    "User20": {
+      "UserID": "295",
+      "UserName": "Chronomancer_123",
+      "Comment": "Fascinating time manipulation display! A truly magical journey.",
+      "Rating": 5,
+      "Date": "2023-11-23"
+    }
+  }
+  

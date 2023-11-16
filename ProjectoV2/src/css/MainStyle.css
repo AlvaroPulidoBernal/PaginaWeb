@@ -1,0 +1,227 @@
+body, html {
+  height: 100%;
+  font-family: "montserrat";
+}
+  
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  min-height: 55%;
+  border-radius: 50px;
+  background-image: url('holidays-costume-characters.jpg');
+  /*animation: fadeIn 2s ease-in-out;*/
+}
+.bgimg.fade-out {
+  opacity: 0; /* Set opacity to 0 (completely transparent) when fading out */
+}
+  
+.menu {
+  display: none;
+}
+
+/*Footrer     --------------------------------------------------------------------*/
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .footer-info, .footer-social {
+    flex: 1;
+  }
+  
+  .footer-info {
+    margin-right: 20px;
+  }
+  
+  .footer-info h2, .footer-social h2 {
+    font-size: 18px;
+  }
+  
+  .footer-social ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-social ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  .footer-social ul li:last-child {
+    margin-right: 0;
+  }
+  
+  .footer-social a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  /* Default styles for larger screens */
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+}
+/*Weather css --------------------------------------------------------------------*/
+form {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#weatherLabel[type="text"] {
+  padding: 5px;
+  font-size: 16px;
+}
+
+#weatherButton {
+  padding: 8px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+#weatherButton:hover {
+  background-color: #0056b3;
+}
+#weather-info {
+  text-align: center;
+  font-size: 18px;
+  margin-top: 20px;
+}
+/*Intranet css --------------------------------------------------------------------*/
+.login-container {
+  max-width: 100%;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.login-container label {
+  display: block;
+  margin-bottom: 8px;
+}
+.login-container input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+.login-container button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+
+/* Style for the search drinks -----------------------------------------------------------*/
+#form-Drinks {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#label-Drinks {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+#search-Input-Drinks {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+#button-Drinks {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#button-Drinks:hover {
+  background-color: #45a049;
+}
+
+/* Style for the cocktail div */
+.cocktail {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+/* Style for the cocktail image */
+.cocktail img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+/* Style for the ingredients list */
+.cocktail ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.cocktail ul li {
+  margin-bottom: 10px;
+}
+.custom-hr {
+  border: 2px solid #686565; /* Example border style */
+  /* Add more styles as needed */
+}
+/* Add this CSS for responsiveness for the table of the comments -------------------------------------------- */
+@media only screen and (max-width: 600px) {
+  .responsive-table {
+      width: 100%;
+  }
+
+  .responsive-table th, .responsive-table td {
+      display: block;
+      width: 100%;
+      box-sizing: border-box;
+  }
+
+  .responsive-table thead, .responsive-table tbody, .responsive-table tr, .responsive-table th, .responsive-table td {
+      display: block;
+  }
+
+  .responsive-table th {
+      text-align: left;
+      padding: 8px;
+      border: 1px solid #dddddd;
+  }
+
+  .responsive-table td {
+      text-align: left;
+      padding: 8px;
+      border: 1px solid #dddddd;
+  }
+}
+/*Responsive media ----------------------------------------------------------------------*/
+  /* Example media query for small screens */
+@media screen and (max-width: 800px) {
+    .responsive-image {
+      width: 100%; /* Set the width to 100% on small screens */
+  }
+}

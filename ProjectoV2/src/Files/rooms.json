@@ -1,0 +1,182 @@
+{
+  "Room1": {
+    "RoomNumber": "101",
+    "BedType": "King",
+    "NumberOfGuests": 2,
+    "Balcony": false,
+    "Available": true,
+    "ImagePath": "src/Imagenes/RoomImages/room01.jpg",
+    "Date": "2023-11-04"
+  },
+  "Room2": {
+    "RoomNumber": "102",
+    "BedType": "Queen",
+    "NumberOfGuests": 4,
+    "Balcony": true,
+    "Available": false,
+    "ImagePath": "src/Imagenes/RoomImages/room02.jpg",
+    "Date": "2023-11-05"
+  },
+  "Room3": {
+    "RoomNumber": "103",
+    "BedType": "Twin",
+    "NumberOfGuests": 1,
+    "Balcony": true,
+    "Available": true,
+    "ImagePath": "src/Imagenes/RoomImages/room03.jpg",
+    "Date": "2023-11-06"
+  },
+  "Room4": {
+    "RoomNumber": "104",
+    "BedType": "Double",
+    "NumberOfGuests": 2,
+    "Balcony": false,
+    "Available": true,
+    "ImagePath": "src/Imagenes/RoomImages/room04.jpg",
+    "Date": "2023-11-07"
+  },
+  "Room5": {
+    "RoomNumber": "105",
+    "BedType": "Twin",
+    "NumberOfGuests": 3,
+    "Balcony": true,
+    "Available": false,
+    "ImagePath": "src/Imagenes/RoomImages/room05.jpg",
+    "Date": "2023-11-07"
+  },
+  "Room6": {
+    "RoomNumber": "106",
+    "BedType": "King",
+    "NumberOfGuests": 2,
+    "Balcony": true,
+    "Available": false,
+    "ImagePath": "src/Imagenes/RoomImages/room06.jpg",
+    "Date": "2023-11-08"
+  },
+  "Room7": {
+    "RoomNumber": "107",
+    "BedType": "Queen",
+    "NumberOfGuests": 4,
+    "Balcony": false,
+    "Available": false,
+    "ImagePath": "src/Imagenes/RoomImages/room07.jpg",
+    "Date": "2023-11-09"
+  },
+  "Room8": {
+    "RoomNumber": "109",
+    "BedType": "Queen",
+    "NumberOfGuests": 4,
+    "Balcony": false,
+    "Available": false,
+    "ImagePath": "src/Imagenes/RoomImages/room07.jpg",
+    "Date": "2023-11-09"
+  },
+  "Room9": {
+    "RoomNumber": "110",
+    "BedType": "King",
+    "NumberOfGuests": 2,
+    "Balcony": false,
+    "Available": true,
+    "ImagePath": "src/Imagenes/RoomImages/room01.jpg",
+    "Date": "2023-11-04"
+  },
+  "Room10": {
+    "RoomNumber": "111",
+    "BedType": "Queen",
+    "NumberOfGuests": 4,
+    "Balcony": true,
+    "Available": false,
+    "ImagePath": "src/Imagenes/RoomImages/room02.jpg",
+    "Date": "2023-11-05"
+  },
+  "Room11": {
+    "RoomNumber": "112",
+    "BedType": "Twin",
+    "NumberOfGuests": 1,
+    "Balcony": true,
+    "Available": true,
+    "ImagePath": "src/Imagenes/RoomImages/room03.jpg",
+    "Date": "2023-11-06"
+  },
+  "Room12": {
+    "RoomNumber": "113",
+    "BedType": "Double",
+    "NumberOfGuests": 2,
+    "Balcony": false,
+    "Available": true,
+    "ImagePath": "src/Imagenes/RoomImages/room04.jpg",
+    "Date": "2023-11-07"
+  },
+  "Room13": {
+    "RoomNumber": "109",
+    "BedType": "Twin",
+    "NumberOfGuests": 3,
+    "Balcony": true,
+    "Available": false,
+    "ImagePath": "src/Imagenes/RoomImages/room05.jpg",
+    "Date": "2023-11-07"
+  },
+  "Room14": {
+    "RoomNumber": "114",
+    "BedType": "King",
+    "NumberOfGuests": 2,
+    "Balcony": true,
+    "Available": false,
+    "ImagePath": "src/Imagenes/RoomImages/room06.jpg",
+    "Date": "2023-11-08"
+  },
+  "Room15": {
+    "RoomNumber": "115",
+    "BedType": "Queen",
+    "NumberOfGuests": 4,
+    "Balcony": false,
+    "Available": false,
+    "ImagePath": "src/Imagenes/RoomImages/room07.jpg",
+    "Date": "2023-11-09"
+  },
+  "Room16": {
+    "RoomNumber": "116",
+    "BedType": "Queen",
+    "NumberOfGuests": 4,
+    "Balcony": false,
+    "Available": false,
+    "ImagePath": "src/Imagenes/RoomImages/room07.jpg",
+    "Date": "2023-11-09"
+  },
+  "Room17": {
+    "RoomNumber": "117",
+    "BedType": "Queen",
+    "NumberOfGuests": 4,
+    "Balcony": false,
+    "Available": false,
+    "ImagePath": "src/Imagenes/RoomImages/room07.jpg",
+    "Date": "2023-11-09"
+  },
+  "Room18": {
+    "RoomNumber": "118",
+    "BedType": "Double",
+    "NumberOfGuests": 2,
+    "Balcony": false,
+    "Available": true,
+    "ImagePath": "src/Imagenes/RoomImages/room04.jpg",
+    "Date": "2023-11-07"
+  },
+  "Room19": {
+    "RoomNumber": "119",
+    "BedType": "Twin",
+    "NumberOfGuests": 1,
+    "Balcony": true,
+    "Available": true,
+    "ImagePath": "src/Imagenes/RoomImages/room03.jpg",
+    "Date": "2023-11-06"
+  },
+  "Room20": {
+    "RoomNumber": "120",
+    "BedType": "Queen",
+    "NumberOfGuests": 4,
+    "Balcony": false,
+    "Available": true,
+    "ImagePath": "src/Imagenes/RoomImages/room07.jpg",
+    "Date": "2023-11-09"
+  }
+}
